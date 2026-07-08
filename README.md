@@ -11,7 +11,7 @@
 
 ## 📌 What is this?
 
-This project is an **experimental, from-scratch image compression algorithm** that converts a standard JPEG/PNG image into a plain **text file**, and then reconstructs a viewable image back from that text — all without relying on any existing image/compression libraries (no zlib, no PNG codecs, no off-the-shelf LZW packages)..
+This project is an **experimental, from-scratch image compression algorithm** that converts a standard JPEG/PNG image into a plain **text file**, and then reconstructs a viewable image back from that text — all without relying on any existing image/compression libraries (no zlib, no PNG codecs, no off-the-shelf LZW packages).
 
 The goal was simple but ambitious: **can a pixel grid be represented as text, shrunk down close to the size of the original compressed image, and then rebuilt again?**
 
