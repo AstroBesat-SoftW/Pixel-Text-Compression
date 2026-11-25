@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ Pixel to Text Compression Engine  V2.3
+# 🖼️ Pixel to Text Compression Engine  V2.34
 ### A custom-built image compression pipeline that turns pixels into text — without any external compression library.
 
 **🇬🇧 English** · [🇹🇷 Türkçe oku](README.tr.md)
